@@ -20,10 +20,10 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author:
-  name: "Student Name" # Name of the student
+  name: "Corey Canning, 'CorAero'" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Add short bio here" # Bio of the student
-  location: "Add location here" # Location of the student
+  bio: "If there's a chance? There's victory. Prowess in Writing, Voice Acting + Direction! Learning Art, both Vector and Pixel, Sound design, both composition an SFX!" # Bio of the student
+  location: "Hyperbolic Time Chamber" # Location of the student
   email: # Email of the student
 
   # Author links
