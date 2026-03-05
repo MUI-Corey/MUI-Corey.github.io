@@ -5,35 +5,39 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "2D Game"
+        url: /projects/2d-game/
+      - title: "3D Game"
+        url: /projects/3d-game/
+      - title: "Art Assets"
+        url: /projects/art-assets/
+      - title: "Fandub"
+        url: /projects/fandub/
   - title: "Pages"
     url: /pages/
     children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
+      - title: "About Me"
+        url: /pages/about-me/
+      - title: "Skills in Learning"
+        url: /pages/skills-in-learning/
   - title: "Components"
     url: /components/
  
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "2D Game"
+    url: /projects/2d-game/
+  - title: "3D-Game"
+    url: /projects/3dgame/
+  - title: "Art Assets"
+    url: /projects/art-assets/
+  - title: "Fandub"
+    url: /projects/fandub/
 
 # Sidebar menu for the Pages page
 pages:
-  - title: "Default Layout"
-    url: /pages/default/
-  - title: "Single Layout"
-    url: /pages/single/
-  - title: "Splash Layout"
-    url: /pages/splash/
+  - title: "About Me"
+    url: /pages/about-me/
+  - title: "Skills in Learning"
+    url: /pages/skills-in-learning/
