@@ -3,7 +3,7 @@ title: "Page Title"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#efed7e"
   overlay_filter: "0.5"
   overlay_image: /assets/images/placeholder.png
   actions:
