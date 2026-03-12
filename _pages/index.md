@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#eae480"
-  overlay_filter: "0.8"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/vsTrainer6.png
   actions:
     - label: "Download CV"
