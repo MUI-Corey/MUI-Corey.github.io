@@ -3,7 +3,7 @@ title: "Demo Reel"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#bf6c13"
+  overlay_color: "#eae480"
   overlay_filter: "0.5"
   overlay_image: /assets/images/vsTrainer6.png
   actions:
