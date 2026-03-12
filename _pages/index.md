@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#efed7e"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/placeholder.png
+  overlay_image: /assets/images/vsTrainer6.png
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1FydacrDlFFgt4JTXGL831cb4WU37lcg1/view?usp=sharing"
