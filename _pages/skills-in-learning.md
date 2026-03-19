@@ -2,6 +2,17 @@
 title: "Skills In Learning"
 layout: default
 permalink: /pages/skills-in-learning/
+skills:
+  - name: "Unity"
+    icon: "fab fa-fw fa-unity"
+    badges: ["C#", "Game Dev"]
+    text: "Built multiple small scale games, both 2D and 3D."
+    years: 1
+  - name: "Game Design"
+    icon: "fas fa-fw fa-gamepad"
+    badges: ["Game Mechanics", "Levels", "UI"]
+    text: "Designed mechanics, levels, and player feedback loops."
+    level_label: "Beginner"
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
