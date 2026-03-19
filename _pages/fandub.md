@@ -1,7 +1,7 @@
 ---
 title: "Fandub"
 layout: default
-permalink: /project/fandub/
+permalink: /projects/fandub/
 ---
 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
