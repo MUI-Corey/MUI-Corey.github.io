@@ -1,7 +1,11 @@
 ---
 title: "Fandub"
-layout: default
+layout: single
 permalink: /projects/fandub/
+sidebar:
+  title: "Projects"
+  nav:
+    - projects
 ---
 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
