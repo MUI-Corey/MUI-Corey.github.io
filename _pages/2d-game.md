@@ -2,6 +2,10 @@
 title: "2D Game"
 layout: page
 permalink: /projects/2d-game/
+sidebar:
+  title: "Projects"
+  nav:
+    - projects
 ---
 
 Game Title: Ror-ro
