@@ -13,6 +13,11 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
+  - name: "Writer"
+    icon: "fa fa-pencil"
+    badges: ["Story Telling", "Themes", "Emotional Dialogue", "Philosophy"]
+    text: "Written a plethora of stories, including original and intergrated. Achieves comedy and emotional realism in dialogue."
+    years: 6
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
