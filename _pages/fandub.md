@@ -23,6 +23,4 @@ As a director of a team, I lead others, and myself, in voicing a Fandub of a Pok
 </div>
 </div>
 
-This page uses the `default` layout. It is a minimal wrapper around your content.
-You can use it for simple pages where you want full control over the markup.
-
+Once the project is finished, I will share a link to the playlist here also.
