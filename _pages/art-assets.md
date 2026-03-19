@@ -1,7 +1,11 @@
 ---
 title: "Art Assets"
-layout: default
+layout: single
 permalink: /projects/art-assets/
+sidebar:
+  title: "Projects"
+  nav:
+    - projects
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
