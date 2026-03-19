@@ -1,6 +1,6 @@
 ---
 title: "2D Game"
-layout: default
+layout: page
 permalink: /projects/2d-game/
 ---
 
