@@ -1,7 +1,11 @@
 ---
 title: "Skills In Learning"
-layout: default
+layout: single
 permalink: /pages/skills-in-learning/
+sidebar:
+  title: "Pages"
+  nav:
+    - pages
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
