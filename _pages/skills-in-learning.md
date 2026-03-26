@@ -34,7 +34,6 @@ skills:
     level_label: "Intermediate"
 ---
 
-This page uses the `default` layout. It is a minimal wrapper around your content.
-You can use it for simple pages where you want full control over the markup.
+This page is for the list of skills, and level of quality. i possess.  I Hope to ascend these skills all to an expert quality someday, and I believe I can.
 
 {% include skills skills=page.skills %}
