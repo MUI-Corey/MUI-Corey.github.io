@@ -34,6 +34,6 @@ skills:
     level_label: "Intermediate"
 ---
 
-This page is for the list of skills, and level of quality. i possess.  I Hope to ascend these skills all to an expert quality someday, and I believe I can.
+This page is for the list of skills, and level of quality, I possess.  I hope to ascend these skills all to an expert quality someday, and I believe I will. So much so, that this description will stay the same until that happens.
 
 {% include skills skills=page.skills %}
