@@ -10,7 +10,7 @@ sidebar:
 
 Here is a list of projects I've worked on. Over time, it will update to reflect my current capabilities.
 
-aian the Sidebar, you can view the different projects I have contributed to/created.
+Using the Sidebar, you can view the different projects I have contributed to/created.
 
 
 
