@@ -8,9 +8,9 @@ sidebar:
     - projects
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
+Here is a list of projects I've worked on. Over time, it will update to reflect my current capabilities.
 
-You can use this page to show a reel of all projects and then have a separate page for each project.
+aian the Sidebar, you can view the different projects I have contributed to/created.
 
 
 
