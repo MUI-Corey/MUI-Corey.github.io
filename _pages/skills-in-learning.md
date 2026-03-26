@@ -16,8 +16,18 @@ skills:
   - name: "Writer"
     icon: "fa fa-pencil"
     badges: ["Story Telling", "Themes", "Emotional Dialogue", "Philosophy"]
-    text: "Written a plethora of stories, including original and intergrated. Achieves comedy and emotional realism in dialogue."
+    text: "Written a plethora of stories, including original and intergrated. Achieves comedy and emotional realism in dialogue. Example on Home Page."
     years: 6
+  - name: "Musical Composer"
+    icon: "fa fa-music"
+    badges: ["FL Studio", "Motifs"]
+    text: "Learning FL Studio to compose an array of music, regarding a baseline understanding of musical theory and extensive knowledge in Video Game Music."
+    level_label: "Beginner"
+  - name: "Digital Artist"
+    icon: "fa fa-paint-brush"
+    badges: ["Pro Create", "Paint.NET, "Aesprite"]
+    text: "Capable of creating digital art, as seen in Art Assets and in the 2D Game page."
+    level_label: "Intermediate"
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
