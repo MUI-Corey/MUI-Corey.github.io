@@ -25,7 +25,7 @@ skills:
     level_label: "Beginner"
   - name: "Digital Artist"
     icon: "fa fa-paint-brush"
-    badges: ["Pro Create", "Paint.NET, "Aesprite"]
+    badges: ["Pro Create", "Paint.NET", "Aesprite"]
     text: "Capable of creating digital art, as seen in Art Assets and in the 2D Game page."
     level_label: "Intermediate"
 ---
