@@ -42,7 +42,7 @@ feature_row:
   <div class="video-panel">
     <h2>Demo Video</h2>
     <video controls width="100%">
-      <source src="/assets/videos/demo.mp4" type="video/mp4">
+      <source src="/assets/images/demo.mp4" type="video/mp4">
     </video>
   </div>
 
