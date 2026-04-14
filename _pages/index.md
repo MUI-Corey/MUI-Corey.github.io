@@ -1,6 +1,6 @@
 ---
 title: "Demo Reel"
-layout: splash
+layout: single
 permalink: /
 header:
   overlay_color: "#eae480"
@@ -33,7 +33,24 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-{% include feature_row id="intro" type="center" %}
+<div class="top-mockup">
+
+  <div class="side-panel">
+    <p>Background Image</p>
+  </div>
+
+  <div class="video-panel">
+    <h2>Demo Video</h2>
+    <video controls width="100%">
+      <source src="/assets/videos/demo.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="side-panel">
+    <p>Background Image</p>
+  </div>
+
+</div>
 
 {% include feature_row %}
 
