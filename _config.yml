@@ -1,3 +1,10 @@
+---
+layout: single
+author_profile: false
+sidebar:
+  nav: "main"
+---
+
 # Basic site settings (edit these first)
 title: "CorAero Showcase" # Site title shown in the browser and header
 title_separator: "-"
@@ -22,7 +29,7 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 author:
   name: "Corey Canning, 'CorAero'" # Name of the student
   avatar: "/assets/images/RioluMe.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "If there's a chance? There's victory. Prowess in Writing, Voice Acting + Direction! Learning Art, both Vector and Pixel, Sound Design, both Composition an SFX!" # Bio of the student
+  bio: "If there's a chance? There's victory. Prowess in Writing, Voice Acting + Direction! Learning Art, both Vector and Pixel, Sound Design, both Composition and SFX!" # Bio of the student
   location: "Hyperbolic Time Chamber" # Location of the student
   email: # Email of the student
 
