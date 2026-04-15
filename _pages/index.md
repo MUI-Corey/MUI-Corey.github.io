@@ -33,23 +33,28 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
+<h1 class="page-title">Demo Reel</h1>
+
 <div class="mock-layout">
 
-  <!-- LEFT GALLERY -->
+  <!-- LEFT IMAGE -->
   <div class="side">
-    {% include gallery id="gallery_gameplay" layout="single" thumb_height="120px" %}
+    <img src="/assets/images/gameCatalogue.png" alt="Left panel">
   </div>
 
   <!-- CENTER VIDEO -->
   <div class="center">
     <h2>Demo Video</h2>
     <hr>
-    {% include video id="dQw4w9WgXcQ" provider="youtube" %}
+
+    <div class="video-wrapper">
+      {% include video id="dQw4w9WgXcQ" provider="youtube" %}
+    </div>
   </div>
 
-  <!-- RIGHT GALLERY -->
+  <!-- RIGHT IMAGE -->
   <div class="side">
-    {% include gallery id="gallery_gameart" layout="single" thumb_height="120px" %}
+    <img src="/assets/images/gameCatalogue2.png" alt="Right panel">
   </div>
 
 </div>
