@@ -8,11 +8,20 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.page__content > .top-mockup {
+  max-width: 100%;
+}
+
+.page__content {
+  width: 100%;
+}
+
 .top-mockup {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   gap: 20px;
   align-items: stretch;
+  width: 100%;
 }
 
 .side-panel {
@@ -37,4 +46,8 @@ search: false
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.top-mockup {
+  background: red;
 }
