@@ -36,8 +36,8 @@ feature_row:
 <div class="top-mockup">
 
   <div class="side-panel">
-    <p>Background Image</p>
-  </div>
+  <img src="/assets/images/gameCatalogue.png" alt="Side image">
+</div>
 
   <div class="video-panel">
     <h2>Demo Video</h2>
@@ -47,8 +47,8 @@ feature_row:
   </div>
 
   <div class="side-panel">
-    <p>Background Image</p>
-  </div>
+  <img src="/assets/images/gameCatalogue2.png" alt="Side image">
+</div>
 
 </div>
 
