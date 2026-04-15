@@ -33,25 +33,30 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<div class="top-mockup">
+<div class="full-width">
 
-  <!-- LEFT PANEL -->
-  <div class="side-panel">
-    <img src="/assets/images/gameCatalogue.png" class="side-img">
-  </div>
+  <div class="top-mockup">
 
-  <!-- CENTER VIDEO -->
-  <div class="video-panel">
-    <h2>Demo Video</h2>
-    <hr>
-    <video controls class="video">
-      <source src="/assets/videos/demo.mp4" type="video/mp4">
-    </video>
-  </div>
+    <!-- LEFT PANEL -->
+    <div class="side-panel">
+      <img src="/assets/images/gameCatalogue.png" class="side-img" alt="Left panel">
+    </div>
 
-  <!-- RIGHT PANEL -->
-  <div class="side-panel">
-    <img src="/assets/images/gameCatalogue2.png" class="side-img">
+    <!-- CENTER VIDEO -->
+    <div class="video-panel">
+      <h2>Demo Video</h2>
+      <hr>
+      <video controls class="video">
+        <source src="/assets/videos/demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+
+    <!-- RIGHT PANEL -->
+    <div class="side-panel">
+      <img src="/assets/images/gameCatalogue2.png" class="side-img" alt="Right panel">
+    </div>
+
   </div>
 
 </div>
