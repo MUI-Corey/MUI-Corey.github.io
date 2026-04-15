@@ -29,3 +29,15 @@ search: false
   border: 2px solid #ccc;
   text-align: center;
 }
+
+.left {
+  background-image: url('/assets/images/gameCatalogue.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.right {
+  background-image: url('/assets/images/gameCatalogue2.png');
+  background-size: cover;
+  background-position: center;
+}
