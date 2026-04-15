@@ -36,7 +36,7 @@ feature_row:
 <div class="top-mockup">
 
   <div class="side-panel">
-    <p>"/assets/images/gameCataogue.png"</p>
+    <p>"/assets/images/gameCatalogue.png"</p>
   </div>
 
   <div class="video-panel">
@@ -47,7 +47,7 @@ feature_row:
   </div>
 
   <div class="side-panel">
-    <p>"/assets/images/gameCataogue2.png"</p>
+    <p>"/assets/images/gameCatalogue2.png"</p>
   </div>
 
 </div>
