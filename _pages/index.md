@@ -33,11 +33,6 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<div class="top-mockup">
-
-  <div class="side-panel">
-  <img src="/assets/images/gameCatalogue.png" alt="Side image">
-</div>
 
   <div class="video-panel">
     <h2>Demo Video</h2>
@@ -46,9 +41,8 @@ feature_row:
     </video>
   </div>
 
-  <div class="side-panel">
-  <img src="/assets/images/gameCatalogue2.png" alt="Side image">
-</div>
+<div class="side-panel left"></div>
+<div class="side-panel right"></div>
 
 </div>
 
