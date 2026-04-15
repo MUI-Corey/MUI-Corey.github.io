@@ -33,23 +33,4 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<div class="top-mockup">
-
-  <div class="side-panel">
-    <p>"/assets/images/gameCatalogue.png"</p>
-  </div>
-
-  <div class="video-panel">
-    <h2>Demo Video</h2>
-    <video controls width="100%">
-      <source src="/assets/videos/demo.mp4" type="video/mp4">
-    </video>
-  </div>
-
-  <div class="side-panel">
-    <p>"/assets/images/gameCatalogue2.png"</p>
-  </div>
-
-</div>
-
 {% include feature_row %}
