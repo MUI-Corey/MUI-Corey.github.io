@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Coraero!"
-layout: single
+layout: default
 permalink: /
 header:
   overlay_color: "#eae480"
@@ -32,5 +32,26 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
+<div class="mock-layout">
+
+  <!-- LEFT GALLERY -->
+  <div class="side">
+    {% include gallery id="gallery_gameplay" layout="single" thumb_height="120px" %}
+  </div>
+
+  <!-- CENTER VIDEO -->
+  <div class="center">
+    <h2>Demo Video</h2>
+    <hr>
+    {% include video id="dQw4w9WgXcQ" provider="youtube" %}
+  </div>
+
+  <!-- RIGHT GALLERY -->
+  <div class="side">
+    {% include gallery id="gallery_gameart" layout="single" thumb_height="120px" %}
+  </div>
+
+</div>
 
 {% include feature_row %}
