@@ -1,5 +1,5 @@
 ---
-title: "Demo Reel"
+title: "Welcome to Coraero!"
 layout: single
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "You experience a sudden urge of intrigue..."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
