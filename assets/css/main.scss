@@ -17,7 +17,7 @@ search: false
 /* ===== MAIN LAYOUT ===== */
 .mock-layout {
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr; /* more flexible than fixed px */
+  grid-template-columns: 300fr 1fr 300fr; /* more flexible than fixed px */
   gap: 40px;
   margin: 40px auto;
   max-width: 1400px; /* wider than before */
@@ -33,7 +33,7 @@ search: false
 /* IMAGE SETTINGS */
 .panel img {
   width: 100%;
-  height: 550px; /* slightly taller to match your 1200x1800 ratio */
+  height: 550px; /* should match 1200x1800 ratio */
   object-fit: cover;
   border: 2px solid #ccc;
 }
