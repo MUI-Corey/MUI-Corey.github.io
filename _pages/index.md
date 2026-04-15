@@ -33,7 +33,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<h1 class="page-title">Demo Reel</h1>
+<h1 class="page-title">Introduction + Demo Reel</h1>
 
 <div class="mock-layout">
 
