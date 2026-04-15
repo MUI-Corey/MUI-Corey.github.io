@@ -35,26 +35,25 @@ feature_row:
 
 <div class="top-mockup">
 
-  <!-- LEFT -->
+  <!-- LEFT PANEL -->
   <div class="side-panel">
     <img src="/assets/images/gameCatalogue.png" class="side-img">
   </div>
 
-  <!-- CENTER -->
+  <!-- CENTER VIDEO -->
   <div class="video-panel">
     <h2>Demo Video</h2>
+    <hr>
     <video controls class="video">
       <source src="/assets/videos/demo.mp4" type="video/mp4">
     </video>
   </div>
 
-  <!-- RIGHT -->
+  <!-- RIGHT PANEL -->
   <div class="side-panel">
     <img src="/assets/images/gameCatalogue2.png" class="side-img">
   </div>
 
 </div>
 
-
 {% include feature_row %}
-
