@@ -19,21 +19,7 @@ gallery_gameplay:
     alt: "Gameplay 3"
     title: "Power-ups"
     caption: "Power-ups"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 4"
-    title: "Boss arena"
-    caption: "Boss arena"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 5"
-    title: "UI feedback"
-    caption: "UI feedback"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 6"
-    title: "Final tweak"
-    caption: "Final tweak"
+
 
 gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
