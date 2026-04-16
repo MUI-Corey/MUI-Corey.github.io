@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
- gallery_art:
+   gallery_art:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/art collage.png
     image_path: /assets/images/art collage.png
