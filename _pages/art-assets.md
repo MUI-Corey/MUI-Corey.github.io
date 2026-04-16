@@ -10,20 +10,17 @@ sidebar:
     
 gallery_art:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/art collage.png
-    image_path: /assets/images/art collage.png
+   - image_path: /assets/images/art-collage.png
     alt: "Image of multiple field assets"
     title: "Field assets"
     caption: "Variety of field assets"
     
-  - url: /assets/images/art collage-2.png
-    image_path: /assets/images/art collage-2.png
+  - image_path: /assets/images/art-collage-2.png
     alt: "Image of multiple desert assets"
     title: "Desert assets"
     caption: "Variey of desert assets"
     
-  - url: /assets/images/art collage-3.png
-    image_path: /assets/images/art collage-3.png
+  - image_path: /assets/images/art-collage-3.png
     alt: "Image of multiple rock assets"
     title: "Rock assets"
     caption: "Variety of rock assets"
