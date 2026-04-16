@@ -26,14 +26,14 @@ feature_row:
   - image_path: /assets/images/3d-game-3.png
     alt: "3D game"
     title: "3D Game"
-    excerpt: "This was the first **3D** game I created. It feaures a coin collecting mechanic, strafe running and jumping for platforming and a dim-lit foggy environment."
+    excerpt: "This was the first **3D** game I created. It features a coin collecting mechanic, momentum-focused running and jumping for platforming and a dim-lit foggy environment."
     url: "/projects/3d-game/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/WotW-art.png
     alt: "General Artwork"
     title: "General Artwork"
-    excerpt: "This was some **vector** art I created for a groupp project. The foreground and background move with the player."
+    excerpt: "This was some **vector** art I created for a group project. The foreground and background move with the player."
     url: "/projects/art-assets/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -58,7 +58,7 @@ feature_row:
       {% include video id="dQw4w9WgXcQ" provider="youtube" %}
     </div>
 
-    <p class="panel-text">A showcase of my recent work and projects.</p>
+    <p class="panel-text">A showcase of my recent work and projects below.</p>
   </div>
 
   <!-- RIGHT PANEL -->
