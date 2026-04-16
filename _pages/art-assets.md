@@ -15,12 +15,12 @@ gallery_art:
     title: "Field assets"
     caption: "Variety of field assets"
     
-  - image_path: /assets/images/art-collage-2.png
+  - image_path: /assets/images/art-collage-desert.png
     alt: "Image of multiple desert assets"
     title: "Desert assets"
     caption: "Variey of desert assets"
     
-  - image_path: /assets/images/art-collage-3.png
+  - image_path: /assets/images/art-collage-rock.png
     alt: "Image of multiple rock assets"
     title: "Rock assets"
     caption: "Variety of rock assets"
