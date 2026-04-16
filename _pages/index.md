@@ -20,21 +20,21 @@ feature_row:
     alt: "2D Game"
     title: "2D Game"
     excerpt: "This was the first **2D** game I created. It features a parralax background, a hunger mechanic and quick movement."
-    url: "#test-link"
+    url: "/projects/2d-game/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/3d-game-3.png
     alt: "3D game"
     title: "3D Game"
     excerpt: "This was the first **3D** game I created. It feaures a coin collecting mechanic, strafe running and jumping for platforming and a dim-lit foggy environment."
-    url: "#test-link"
+    url: "/projects/3d-game/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - image_path: /assets/images/WotW-art.png
+    alt: "General Artwork"
+    title: "General Artwork"
+    excerpt: "This was some **vector** art I created for a groupp project. The foreground and background move with the player."
+    url: "/projects/art-assets/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
