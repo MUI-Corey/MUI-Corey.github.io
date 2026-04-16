@@ -16,14 +16,17 @@ excerpt: "You experience a sudden urge of intrigue..."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/2d-game-3.png
+    alt: "2D Game"
+    title: "2D Game"
+    excerpt: "This was the first **2D** game I created. It features a parralax background, a hunger mechanic and quick movement."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/3d-game-3.png
+    alt: "3D game"
+    title: "3D Game"
+    excerpt: "This was the first **3D** game I created. It feaures a coin collecting mechanic, strafe running and jumping for platforming and a dim-lit foggy environment."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -31,6 +34,9 @@ feature_row:
     alt: "placeholder image 4"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 <h1 class="page-title">Introduction + Demo Reel</h1>
