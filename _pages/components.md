@@ -2,23 +2,23 @@
 title: "Components"
 layout: default
 permalink: /components/
-gallery_gameplay:
+gallery_art:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
+  - url: /assets/images/art collage.png
+    image_path: /assets/images/art collage.png
+    alt: "Image of multiple field assets"
+    title: "Field assets"
+    caption: "Variety of field assets"
+  - url: /assets/images/art collage-2.png
+    image_path: /assets/images/art collage-2.png
+    alt: "Image of multiple desert assets"
+    title: "Desert assets"
+    caption: "Variey of desert assets"
+  - url: /assets/images/art collage-3.png
+    image_path: /assets/images/art collage-3.png
+    alt: "Image of multiple rock assets"
+    title: "Rock assets"
+    caption: "Variety of rock assets"
 
 
 gallery_gameart:
