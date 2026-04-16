@@ -8,7 +8,7 @@ sidebar:
   nav:
     - projects
     
-gallery_art:
+gallery:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - image_path: /assets/images/art-collage.png
     alt: "Image of multiple field assets"
