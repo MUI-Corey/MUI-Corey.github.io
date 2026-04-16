@@ -10,7 +10,7 @@ sidebar:
     
 gallery_art:
   # Recommended: width "240px" to "320px" keeps a neat grid
-   - image_path: /assets/images/art-collage.png
+  - image_path: /assets/images/art-collage.png
     alt: "Image of multiple field assets"
     title: "Field assets"
     caption: "Variety of field assets"
