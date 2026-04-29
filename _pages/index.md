@@ -55,7 +55,7 @@ feature_row:
     <hr>
 
     <div class="video-wrapper">
-      {% include video id="dQw4w9WgXcQ" provider="youtube" %}
+      {% include video id="GqMe6E88c10" provider="youtube" %}
     </div>
 
     <p class="panel-text">A showcase of my recent work and projects below.</p>
