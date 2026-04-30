@@ -19,5 +19,6 @@ There was a story passed around throughout generations of tribesmen, a blight of
 Without knowing, the player only being able to put two and two together at the end, that being? Was Ror-ro. 
 
 “You’ve been wishing to leave everything for a while now. This is your chance.”
+© [2026] [Coraero]
 
 {% include figure image_path="/assets/images/2d-game-1.png" alt="2D Game screenshot" caption="Image of 2D Game" %}
