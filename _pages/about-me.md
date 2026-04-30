@@ -2,10 +2,10 @@
 title: "About Me"
 layout: default
 permalink: /pages/about-me/
-  actions:
-    - label: "Download CV"
-      url: "https://drive.google.com/file/d/1FydacrDlFFgt4JTXGL831cb4WU37lcg1/view?usp=sharing"
-      target: "_blank"
+actions:
+  - label: "Download CV"
+    url: "https://drive.google.com/file/d/1FydacrDlFFgt4JTXGL831cb4WU37lcg1/view?usp=sharing"
+    target: "_blank"
 ---
 
 Professionally, I’m a writer and editor, and aspiring Composer, Game dev and artist. 
