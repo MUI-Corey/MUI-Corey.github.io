@@ -3,9 +3,6 @@ title: "About Me"
 layout: default
 permalink: /pages/about-me/
 header:
-  overlay_color: "#eae480"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/vsTrainer6.png
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1FydacrDlFFgt4JTXGL831cb4WU37lcg1/view?usp=sharing"
@@ -28,4 +25,6 @@ Whilst I’m working on the prior skills, I think leaning into the latter is ess
 So, you have an idea for a game? Need plot points, diverse characters, emotional moments to connect players, mechanics rooted within the world, a complex morality carried by the mc? 
 It’d be an honour to work with you, as I enjoy creating all those things~
 (And, there’s a high chance I already have…)
+
+{% include button url="/projects/" label="View All Projects" class="btn--primary" %}
 
