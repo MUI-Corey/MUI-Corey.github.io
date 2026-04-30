@@ -2,7 +2,6 @@
 title: "About Me"
 layout: default
 permalink: /pages/about-me/
-header:
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1FydacrDlFFgt4JTXGL831cb4WU37lcg1/view?usp=sharing"
