@@ -22,5 +22,7 @@ home through... Unpleasant means.
 The general textures of the building are that of deteriorating materials, including bricks and damaged brick + plaster the higher up you look. 
 The floor texture is an outside rock and grass material, which makes the house feel reclaimed by nature and highlight it's decrepitness.
 
+© [2026] [Coraero]
+
 
 {% include figure image_path="/assets/images/3d-game-1.png" alt="3D Game screenshot" caption="Image of 3D Game" %}
