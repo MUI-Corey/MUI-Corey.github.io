@@ -10,7 +10,7 @@ sidebar:
 
 Game Title: Ror-ro
 
-This was my first attempt at creating a 2D game, including all the code and graphical abilities. 
+This was my first attempt at creating a 2D game, including all the code and graphical abilities. The pixel art is inspired by a jungle-style grassland, with the floating platforms seemingly existing like leafy-clouds, as though the character is jumping from tree to tree. There is also a cave section where black spikes parralax come down the screen, to make the player feel more trapped.
 
 The story follows a young, small blue creature by the name or "Ror-ro". Born and raised amidst a jungle tribe, Ror-ro lived a rigorous and tough life. He believed that, simply, this was how things were to be. He didn’t struggle amongst struggle, he lived with life.
 
