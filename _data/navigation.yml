@@ -20,8 +20,8 @@ main:
         url: /pages/about-me/
       - title: "Skills in Learning"
         url: /pages/skills-in-learning/
-  - title: "Components"
-    url: /components/
+  #- title: "Components"
+    #url: /components/
  
 
 # Sidebar menu for the Projects page
