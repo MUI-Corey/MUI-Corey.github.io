@@ -2,6 +2,14 @@
 title: "About Me"
 layout: default
 permalink: /pages/about-me/
+header:
+  overlay_color: "#eae480"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/vsTrainer6.png
+  actions:
+    - label: "Download CV"
+      url: "https://drive.google.com/file/d/1FydacrDlFFgt4JTXGL831cb4WU37lcg1/view?usp=sharing"
+      target: "_blank"
 ---
 
 Professionally, I’m a writer and editor, and aspiring Composer, Game dev and artist. 
