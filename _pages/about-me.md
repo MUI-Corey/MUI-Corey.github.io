@@ -25,5 +25,5 @@ So, you have an idea for a game? Need plot points, diverse characters, emotional
 It’d be an honour to work with you, as I enjoy creating all those things~
 (And, there’s a high chance I already have…)
 
-{% include button url="/projects/" label="View All Projects" class="btn--primary" %}
+{% include button url="https://drive.google.com/file/d/1FydacrDlFFgt4JTXGL831cb4WU37lcg1/view?usp=sharing" label="Download CV" class="btn--primary" %}
 
