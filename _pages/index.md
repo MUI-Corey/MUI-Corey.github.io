@@ -30,7 +30,7 @@ feature_row:
     url: "/projects/3d-game/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/WotW-art.png
+  - image_path: /assets/images/WotW-art1.png
     alt: "General Artwork"
     title: "General Artwork"
     excerpt: "This was some **vector** art I created for a group project. The foreground and background move with the player. © [2026] [Coraero]"
