@@ -28,4 +28,6 @@ gallery:
 
 This page will house a plethora of art assets I have created, whether it be Pixel art or Vector art.
 
+© [2026] [Coraero]
+
 {% include gallery id="gallery" layout="third" thumb_height="180px" %}
